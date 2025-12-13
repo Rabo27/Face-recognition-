@@ -1,5 +1,5 @@
 FaceRecognition
-Machine Learning project to recognise people from an Image just like facebook.
+Machine Learning project
 
 Built with the help of dlib's state-of-the-art face recognition built with deep learning. The model has an accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
 
